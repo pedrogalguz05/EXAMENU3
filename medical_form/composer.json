@@ -1,0 +1,11 @@
+{
+    "name": "esthe/esthe",
+    "description": "email",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}
